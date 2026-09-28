@@ -3,13 +3,12 @@
 // Replace the placeholder values below before launch.
 // =========================================================
 const SITE_CONFIG = {
-  whatsappNumber: "27820000000", // South African number, digits only. Example: 27821234567
+  whatsappNumber: "27672845741", // South African number, digits only. Example: 27821234567
   whatsappMessage: "Hi, I'd like to get a business landing page for R750. I'd like to find out more.",
   socials: {
-    facebook: "#",
-    instagram: "#",
-    tiktok: "#",
-    linkedin: "#"
+    facebook: "https://web.facebook.com/Chocolat.Papii/",
+    instagram: "https://www.instagram.com/museum.heart/",
+    linkedin: "https://www.linkedin.com/in/sibusiso-msimango-webs/"
   }
 };
 
